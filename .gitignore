@@ -1,11 +1,11 @@
 # IntelliJ project files
 
-.idea
-
+*.idea
+.idea*
 *.iml
 
 target
-
+chromedriverold.exe
 build
 
 out
